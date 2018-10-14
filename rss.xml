@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Martin1024</title>
+    <link>https://Martin1024.github.io</link>
+    <description>Keep Calm and Carry On</description>
+    <pubDate>日, 14 10月 2018 10:47:49 CST</pubDate>
+    <lastBuildDate>日, 14 10月 2018 10:47:49 CST</lastBuildDate>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>org-page workflow</title>
+      <link>https://Martin1024.github.io/blog/2018/10/14/org-page-workflow</link>
+      <description><![CDATA[<TODO: insert your description here>]]></description>
+      <pubDate>2018-10-14</pubDate>
+      <guid>https://Martin1024.github.io/blog/2018/10/14/org-page-workflow</guid>
+    </item>
+  </channel>
+</rss>
