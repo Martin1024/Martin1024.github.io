@@ -1,0 +1,25 @@
+#+TITLE:       org-page workflow
+#+AUTHOR:      
+#+EMAIL:       zssdhr@zssdhr-PC
+#+DATE:        2018-10-14 日
+#+URI:         /blog/%y/%m/%d/org-page-workflow
+#+KEYWORDS:    orgmode
+#+TAGS:        orgmode
+#+LANGUAGE:    en
+#+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
+#+DESCRIPTION: <TODO: insert your description here>
+
+1. 初始化
+op/new-repository 自动初始化本地仓库
+git checkout master
+git remote add origin git@github.com:Martin1024/Martin1024.github.io.git
+git push -u origin master
+
+2. 发布文章
+op/new-post
+git checkout source
+git add .
+git commit -m 'xx'
+git push origin
+op/do-publicaton
+
